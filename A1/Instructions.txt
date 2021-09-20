@@ -1,0 +1,11 @@
+Complete each of the 5 exercises in the Assignment1.pdf file. 
+
+Save each exercise in a separate file.  Name the file based on the exercise it represents. ex// Project2-1.py
+
+Make sure the formatting is the same as what is displayed in the sample output for the exercise.
+
+Each question is marked out of 5 marks, total 25 marks
+
+Submit a zipped folder containing each of the 5 python files to the dropbox on d2l.  
+
+Due Wed Sept 22nd
